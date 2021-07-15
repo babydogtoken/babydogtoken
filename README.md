@@ -1,5 +1,7 @@
 ### Hi there 👋
+The BabyDog protocol is 100% community-driven, based on the fair launch of DeFi tokens. Three simple functions occur during each transaction: reflection, LP capture and burning. In addition, RFI static rewards allow holders to obtain partial passive rewards through static reflection during the surplus of their own BabyDog.
 
+Baby Dog a new cryptocurrency created by members and fans of Shiba Inu original community,wants to be cared for and loved.Simply Love, pet, and watch your Baby Dog grow.
 <!--
 **babydogtoken/babydogtoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
